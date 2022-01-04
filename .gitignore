@@ -31,6 +31,10 @@
 *.out
 *.app
 
-/x64
-/.vs
-/Mode6/x64
+x64
+.vs
+Mod6/x64/
+
+*.vcxproj
+*.user
+*.filters
